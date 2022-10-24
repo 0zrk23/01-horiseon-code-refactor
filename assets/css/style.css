@@ -1,13 +1,23 @@
+/* The webpage should extend to all sides and
+ should have the boxes be relatively the same size
+ so all css properties are contained within the 
+ html element i.e. not making it larger than
+ the specified size*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* The baground should be the color #d9dcd6 (hex) */
 body {
     background-color: #d9dcd6;
 }
 
+/* The header is padded with 20px,
+is using the given font family
+the background and font color
+are specified below*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +33,8 @@ header {
 #seo {
     color: #d9dcd6;
 }
+
+
 
 nav{
     padding-top: 15px;
