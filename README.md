@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a webpage for Horiseon Social Solutions Services, Inc. 
+This is a webpage for Horiseon Social Solutions Services, Inc. with the aim to improve your understanding of Search Engine Optimization, Online Reputation Management, and Social Media Marketing. I was tasked with making the html clear and semantic; also to improve the stylesheet so that it was concise and without unnecissary repitition.
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
